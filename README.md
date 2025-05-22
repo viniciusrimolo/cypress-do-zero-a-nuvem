@@ -21,7 +21,6 @@
 
 ## Vamos começar?
 
-Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
 
 ___
 
